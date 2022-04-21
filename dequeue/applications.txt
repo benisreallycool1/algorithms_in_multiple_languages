@@ -1,0 +1,3 @@
+In undo operations on software.
+To store history in browsers.
+For implementing both stacks and queues.
